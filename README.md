@@ -1,2 +1,4 @@
 # gitgub-para-programadores
-Prueba de repositorio
+github para desarrolladores
+
+[visita mi blog](link a la pagina web)
